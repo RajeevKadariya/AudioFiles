@@ -6,7 +6,7 @@
 ```
 
 ## ✅ Rules
-- ✔️ All lowercase
+- ✔️ All lowercase only
 - ✔️ Use hyphens (-) not spaces or underscores
 - ✔️ Descriptive and clear
 - ✔️ No numbers, no IDs
